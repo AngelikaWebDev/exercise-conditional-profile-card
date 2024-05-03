@@ -1,3 +1,13 @@
+.dark-mode {
+  transition: background-color 0.5s ease;
+  background-color: #333;
+  color: #fff;
+}
+.dark-mode .filters {
+  transition: background-color 0.5s ease;
+  background: #333;
+}
+
 .filters {
   background: white;
   width: 100%;
